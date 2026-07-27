@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
+  <title id="title">ITRP Consultores</title>
+  <desc id="desc">Logo de ITRP Consultores</desc>
+  <g transform="translate(16 8)" fill="none" stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="14" r="9" fill="#0E6B6F" stroke="none"/>
+    <path d="M36 40h58c20 0 34 14 34 31s-14 31-34 31H62"/>
+    <path d="M36 66h46"/>
+    <path d="M60 66L40 128"/>
+    <path d="M78 102L68 128"/>
+    <path d="M80 102L112 130"/>
+  </g>
+  <text x="170" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="2" fill="#111">ITRP CONSULTORES</text>
+</svg>
