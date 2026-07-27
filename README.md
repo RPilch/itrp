@@ -1,23 +1,18 @@
-# ITRP Consultores — sitio web
+# ITRP Consultores — web para GitHub Pages
 
-Sitio estático listo para publicarse en GitHub Pages, sin dominio personalizado por el momento.
+Sitio estático multipágina, sin dominio personalizado.
 
 ## Publicación
-1. Cree un repositorio nuevo en GitHub.
-2. Suba todos los archivos de esta carpeta a la raíz del repositorio.
-3. Abra **Settings > Pages**.
-4. En **Build and deployment**, seleccione **Deploy from a branch**.
-5. Seleccione la rama `main` y la carpeta `/ (root)`.
-6. Guarde los cambios.
+1. Extraer el ZIP.
+2. Subir el contenido de `itrp-web` a la raíz del repositorio.
+3. En GitHub: **Settings → Pages**.
+4. Seleccionar **Deploy from a branch**, rama `main` y carpeta `/ (root)`.
+5. Dejar vacío **Custom domain**.
 
-La web quedará disponible temporalmente en una dirección similar a:
-
-`https://USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/`
-
-No configure todavía la opción **Custom domain**.
-
-## Archivos principales
-- `index.html`: contenido de la página.
-- `styles.css`: diseño y versión móvil.
-- `script.js`: menú móvil y año automático.
-- `assets/`: logotipo y favicon.
+## Páginas
+- `index.html`
+- `nosotros.html`
+- `servicios.html`
+- `experiencia.html`
+- `colaboradores.html`
+- `contacto.html`
