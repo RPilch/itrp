@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140">
-  <g fill="none" stroke="#1E252B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M28 38 H86"/>
-    <path d="M50 38 L33 116"/>
-    <path d="M28 60 H75"/>
-    <path d="M75 38 C101 38 114 50 114 68 C114 87 100 98 78 98 H58"/>
-    <path d="M77 98 L107 118"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <g fill="none" stroke="#111111" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 43 H88"/><path d="M25 69 H79"/><path d="M88 43 C112 43 126 57 126 76 C126 96 111 108 87 108 H61"/><path d="M58 69 L37 128"/><path d="M75 108 L113 132"/><path d="M70 108 L61 132"/>
   </g>
-  <circle cx="56" cy="17" r="7" fill="#0E6B6F"/>
+  <circle cx="60" cy="18" r="8" fill="#0E6B6F"/>
 </svg>

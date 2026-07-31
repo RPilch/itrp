@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 140" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 150" role="img" aria-labelledby="title desc">
   <title id="title">ITRP Consultores</title>
-  <desc id="desc">Logotipo horizontal de ITRP Consultores</desc>
-  <g fill="none" stroke="#1E252B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
-    <!-- Monograma TR, trazado recto y sin deformación -->
-    <path d="M28 38 H86"/>
-    <path d="M50 38 L33 116"/>
-    <path d="M28 60 H75"/>
-    <path d="M75 38 C101 38 114 50 114 68 C114 87 100 98 78 98 H58"/>
-    <path d="M77 98 L107 118"/>
+  <desc id="desc">Logotipo horizontal oficial de ITRP Consultores</desc>
+  <g fill="none" stroke="#111111" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 43 H88"/>
+    <path d="M25 69 H79"/>
+    <path d="M88 43 C112 43 126 57 126 76 C126 96 111 108 87 108 H61"/>
+    <path d="M58 69 L37 128"/>
+    <path d="M75 108 L113 132"/>
+    <path d="M70 108 L61 132"/>
   </g>
-  <circle cx="56" cy="17" r="7" fill="#0E6B6F"/>
-  <text x="142" y="86" font-family="Montserrat, Aptos, Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="1" fill="#1E252B">ITRP CONSULTORES</text>
+  <circle cx="60" cy="18" r="8" fill="#0E6B6F"/>
+  <text x="158" y="101" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700" letter-spacing="2.2" fill="#111111">ITRP CONSULTORES</text>
 </svg>
