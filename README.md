@@ -12,3 +12,8 @@ Sitio estático de una sola página preparado para GitHub Pages.
 6. Cuando GitHub valide el DNS, activar Enforce HTTPS.
 
 El archivo CNAME ya contiene `www.itrpconsultores.com`.
+
+## Actualización v7
+- Usa el logotipo PNG oficial entregado por el cliente, sin redibujarlo.
+- Portada centrada y ajustada sin espacio reservado para imagen.
+- Contactos reorganizados en tarjetas legibles.
